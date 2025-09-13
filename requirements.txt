@@ -2,4 +2,3 @@ aiogram
 google.generativeai
 python-dotenv
 asyncpg
-Pillow
